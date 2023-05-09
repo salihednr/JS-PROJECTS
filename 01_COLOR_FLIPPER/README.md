@@ -16,3 +16,7 @@ This is a simple color picker website that allows users to randomly generate col
 - CSS
 - JavaScript
 - Sweet Alert (JS Library)
+
+## Preview
+
+01_COLOR_FLIPPER/Screenshot 2023-05-09 at 11.02.59 PM.png
