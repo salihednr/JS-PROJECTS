@@ -19,4 +19,4 @@ This is a simple color picker website that allows users to randomly generate col
 
 ## Preview
 
-01_COLOR_FLIPPER/Screenshot 2023-05-09 at 11.02.59 PM.png
+https://github.com/salihednr/JS-PROJECTS/blob/main/01_COLOR_FLIPPER/Screenshot%202023-05-09%20at%2011.02.59%20PM.png
