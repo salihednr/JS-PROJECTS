@@ -12,3 +12,7 @@ btn.addEventListener('click',function(){
 function getRandomNumber(){
     return Math.random();    
 }
+color.addEventListener('click',function(){
+    navigator.clipboard.writeText(color.textContent);
+    swal('Good job!','Copied Successfully','success');
+})
