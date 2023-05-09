@@ -20,3 +20,5 @@ This is a simple color picker website that allows users to randomly generate col
 ## Preview
 
 [https://github.com/salihednr/JS-PROJECTS/blob/main/01_COLOR_FLIPPER/Screenshot%202023-05-09%20at%2011.02.59%20PM.png](https://github.com/salihednr/JS-PROJECTS/blob/main/01_COLOR_FLIPPER/Screenshot%202023-05-09%20at%2011.02.59%20PM.png)
+
+https://github.com/salihednr/JS-PROJECTS/blob/main/01_COLOR_FLIPPER/Screenshot%202023-05-09%20at%2011.03.08%20PM.png
